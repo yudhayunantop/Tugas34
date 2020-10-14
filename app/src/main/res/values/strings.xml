@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Tugas34</string>
+    <string name="content_text">MacBook Pro elevates the notebook to a whole new level of performance and portability. Wherever your ideas take you, you’ll get there faster than ever with high‑performance processors and memory, advanced graphics, blazing‑fast storage, and more — all in a compact 3-pound package.
+
+</string>
+    <string name="content_specs_display">13 inch Retina Display (2560 x 1600)\n
+        100% SRGB\n
+        Anti Glare</string>
+    <string name="content_specs_size">13 inch</string>
+    <string name="content_specs_other">The MacBook Pro 2020’s battery life is really strong given all the power you’re getting under the hood. The laptop lasted for an impressive 10 hours and 21 minutes on our web surfing battery test at 150 nits of screen brightness. </string>
+    <string name="stock">Stock hanya 5 buah</string>
+    <string name="specification">Spesifikasi</string>
+    <string name="display">Display</string>
+    <string name="size">Size</string>
+    <string name="other">Lain - Lain</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">Lulu The Best Seller</string>
+    <string name="buy">Beli</string>
+    <string name="dummy_value">$1299</string>
+    <string name="dummy_photos">3 photos</string>
+    <string name="dijual_oleh">Dijual oleh</string>
+    <string name="beli">BELI</string>
+    <string name="others">Others</string>
+</resources>
